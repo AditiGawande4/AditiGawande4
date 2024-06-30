@@ -1,13 +1,13 @@
 ![MasterHead](https://camo.githubusercontent.com/d5757f53dd08b29016e1d770a003d889d006a5984a83def773385ed43644bf23/68747470733a2f2f7777772e6c6561726e75706f6e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f4032782d426c6f672d546563686e6963616c2d536b696c6c732d616e696d6174696f6e2e676966)
 <h1 align="center">Hi 👋, I'm Aditi Ashish Gawande</h1>
-<h3 align="center">A passionate App Developer from India</h3>
+<h3 align="center">AI & Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditigawande4&label=Profile%20views&color=0e75b6&style=flat" alt="aditigawande4" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning about **LLMs**
 
-- 💬 Ask me about **Flutter, Dart, Machine Learning**
+- 💬 Ask me about **Machine Learning, Data Science, Transformers**
 
 - 📫 How to reach me **gawandeaditi4@gmail.com**
 
