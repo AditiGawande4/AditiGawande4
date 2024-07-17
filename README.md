@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine Learning, Data Science, Transformers**
 
-- 📫 How to reach me **gawandeaditi4@gmail.com**
+- 📫 How to reach me **ag9500@nyu.edu**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UU6NEnZX5pGgeGHyXL0DD2hEJStWt9NU/view?usp=sharing](https://drive.google.com/file/d/1UU6NEnZX5pGgeGHyXL0DD2hEJStWt9NU/view?usp=sharing)
 
